@@ -1,10 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+::placeholder{
+    color: rgb(250, 75, 75);
+}
 body{
     background-color: rgba(4, 36, 78, 0.541);
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.171);
+    text-align: center;
 }
 
 .form,
 .greetings {
     display: none;
+}
+h1{
+    font-size: 40px;
+    padding: 30px 0;
+}
+h1, h4{
+    color: rgb(37, 32, 32);
+}
+form{
+    margin-top: 30px;
+}
+form input{
+    border: 1px solid #000;
+    background-color: rgba(255, 255, 255, 0.377);
+    padding: 15px 10px;
+    font-size: 16px;
+    color: black;
+    height: 5vh;
+    width: 50vw;
+}
+ul{
+    margin-top: 30px;
+}
+li{
+    background-color: rgba(255, 255, 255, 0.438);
+    list-style-type: none;
+    padding: 5px;
+}
+li button{
+    margin-left: 5px;
+    background-color: transparent;
+    border: 1px solid #000;
+    padding: 3px 5px;
+}
+li button:hover{
+    border: 1px solid red;
+    color: red;
 }
 
 .showing{
