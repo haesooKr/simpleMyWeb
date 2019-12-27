@@ -1,4 +1,4 @@
-# Simple Clock
+# Simple Web Page
 
 ## Simple Clock Practice with Vanila Javascript
 - Get Current Time (SetInterval)
@@ -6,4 +6,7 @@
 - Save User Name on Local Storage
 - Load User Name from Local Storage
 
-## Add ToDo List with using Local Storage
+## ToDo List with using Local Storage
+- Add ToDo
+- Delete ToDo (Update)
+- Save & Load ToDo
