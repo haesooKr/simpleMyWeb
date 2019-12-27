@@ -81,7 +81,7 @@ li button:hover{
     }
 }
 
-span{
+.weather{
     display: block;
     padding: 5px;
     color: rgb(247, 247, 247);
