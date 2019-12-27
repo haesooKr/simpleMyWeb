@@ -14,3 +14,4 @@
 ## Weather API
 - Get longitude, latitude from navigator
 - Use API to get Weather
+- Show location and temperature
