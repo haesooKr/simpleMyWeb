@@ -10,3 +10,7 @@
 - Add ToDo
 - Delete ToDo (Update)
 - Save & Load ToDo
+
+## Weather API
+- Get longitude, latitude from navigator
+- Use API to get Weather
